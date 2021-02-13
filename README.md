@@ -3,8 +3,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henryrjung&label=Profile%20views&color=0e75b6&style=flat" alt="henryrjung" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryrjung" alt="henryrjung" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/henrywebdev" target="blank"><img src="https://img.shields.io/twitter/follow/henrywebdev?logo=twitter&style=for-the-badge" alt="henrywebdev" /></a> </p>
